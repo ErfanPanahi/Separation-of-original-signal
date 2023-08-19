@@ -7,4 +7,11 @@ Separation of original signal from its echoed one along calculating power and de
 
 3- Comparing Analytical and Convolution-based Output Calculation for Discrete LTI Systems (p3.md)
 
-4- 
+4- Recording and Analyzing a Poet's Verse: Sampling and Analysis Using MATLAB (p4.md)
+
+5- Introduction to Audio Signal Echo and Impulse Response Calculation in an IIR System (y.wav)
+
+6- Generating and Storing Pleasant Audio Responses Using Hypothetical Values for Impact (y_best.wav)
+
+
+
